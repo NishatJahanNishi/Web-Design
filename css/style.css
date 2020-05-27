@@ -1,0 +1,46 @@
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+.carousel-caption{
+bottom: 30%;}
+
+.about-content i{
+	font-size:30px;
+}
+.getting{
+	background:url(../images/15.JPG);
+	height:200px;
+	background-size:cover;
+	position:relative;
+	
+}
+.getting-overlay{
+	position:absolute;
+	width:100%;
+	height:100%;
+	background:rgba(136,121,160,0.5);
+}
+.section-banner{
+	background:url(../images/7.JPG);
+	height:250px;
+	background-size:cover;
+	background-position:center;
+}
+.what-do img{
+	margin-top:-80px;
+}
+.scrollup {
+    position: fixed;
+    bottom: 20px;
+    right: 15%;
+    display: none;
+	
+    
+}
+.scrollup i{
+	font-size:30px;
+	color:#1e7e34;
+}
